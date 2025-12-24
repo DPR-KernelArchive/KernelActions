@@ -4,8 +4,8 @@
       "device": "a72q",
       "vendor": "samsung",
       "name": "valerin",
-      "defconfig": "vendor/samsung/a72q.config",
-      "extraConfig": "vendor/samsung/sm7125_defconfig",
+      "defconfig": "vendor/samsung/sm7125_defconfig",
+      "extraConfig": "vendor/samsung/a72q.config",
       "repo": "https://github.com/DPR-KernelArchive/valeryn_samsung_sm7125",
       "branch": "android16"
     },
