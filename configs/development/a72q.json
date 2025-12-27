@@ -3,11 +3,11 @@
     "kernelSource": {
       "device": "a72q",
       "vendor": "samsung",
-      "name": "valerin",
+      "name": "notfleshka",
       "defconfig": "vendor/samsung/a72q.config",
       "extraConfig": "vendor/samsung/sm7125_defconfig",
-      "repo": "https://github.com/DPR-KernelArchive/valeryn_samsung_sm7125",
-      "branch": "android16"
+      "repo": "https://github.com/notfleshka/android_kernel_samsung_sm7125",
+      "branch": "susfs-sidex"
     },
     "output_image": "Image.gz",
     "use_python2": false,
