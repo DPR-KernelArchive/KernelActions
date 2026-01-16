@@ -5,7 +5,7 @@
       "vendor": "samsung",
       "name": "notfleshka",
       "defconfig": "vendor/samsung/a72q.config",
-      "extraConfig": "vendor/samsung/sma72_defconfig",
+      "extraConfig": "vendor/samsung/sm7125_defconfig",
       "repo": "https://github.com/neophyteprjkt/kernel_xiaomi_ginkgo",
       "branch": "sma72"
     },
@@ -19,7 +19,7 @@
     },
     "kernelsu": {
       "enable": true,
-      "setupLink": "https://github.com/DR-KernelArchive/KernelSU-Unified/raw/susfs/kernel/setup.sh",
+      "setupLink": "https://raw.githubusercontent.com/DPR-MoonWake/KernelSU-Unified/refs/heads/susfs/kernel/setup.sh",
       "setupArg": "susfs",
       "setupName": "KernelSU",
       "needPatch": false,
