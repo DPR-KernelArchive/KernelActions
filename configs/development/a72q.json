@@ -3,9 +3,9 @@
     "kernelSource": {
       "device": "a72q",
       "vendor": "samsung",
-      "name": "notfleshka",
+      "name": "dpr-valeryn",
       "defconfig": "vendor/samsung/sma72_defconfig",
-      "extraConfig": "vendor/samsung/a72q.config",
+      "extraConfig": "",
       "repo": "https://github.com/neophyteprjkt/kernel_xiaomi_ginkgo",
       "branch": "sma72"
     },
