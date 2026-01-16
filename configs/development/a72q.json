@@ -4,8 +4,8 @@
       "device": "a72q",
       "vendor": "samsung",
       "name": "notfleshka",
-      "defconfig": "vendor/samsung/a72q.config",
-      "extraConfig": "vendor/samsung/sma72_defconfig",
+      "defconfig": "vendor/samsung/sma72_defconfig",
+      "extraConfig": "vendor/samsung/a72q.config",
       "repo": "https://github.com/neophyteprjkt/kernel_xiaomi_ginkgo",
       "branch": "sma72"
     },
@@ -27,8 +27,8 @@
     },
     "toolchains": [
       {
-        "repo": "https://github.com/DPR-MoonWake/clang-r383902",
-        "branch": "aosp",
+        "repo": "https://gitlab.com/nekoprjkt/aosp-clang",
+        "branch": "17",
         "name": "clang-AOSP",
         "binPath": ["/bin"]
       }
