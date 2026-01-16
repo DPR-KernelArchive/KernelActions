@@ -5,9 +5,9 @@
       "vendor": "samsung",
       "name": "notfleshka",
       "defconfig": "vendor/samsung/a72q.config",
-      "extraConfig": "vendor/samsung/sm7125_defconfig",
-      "repo": "https://github.com/notfleshka/android_kernel_samsung_sm7125",
-      "branch": "susfs-sidex"
+      "extraConfig": "vendor/samsung/sma72_defconfig",
+      "repo": "https://github.com/neophyteprjkt/kernel_xiaomi_ginkgo",
+      "branch": "sma72"
     },
     "output_image": "Image.gz",
     "use_python2": false,
